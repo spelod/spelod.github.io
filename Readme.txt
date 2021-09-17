@@ -5,3 +5,5 @@ Despite the appearances, it is all about research on the psychology of detention
 Twenty-four volunteers have agreed to spend the next two weeks recreating life in a correctional facility. Twelve of them are officers, twelve are prisoners.
 
 And this is our LOD project about it.
+
+Team: Laura Travaglini, Diego Chillo, Andrea Zanetti.
