@@ -1288,6 +1288,12 @@ section {
   bottom: 15px;
 }
 
+#team-boxes {
+display: flex;
+justify-content: center;
+align-items: center;
+} 
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
